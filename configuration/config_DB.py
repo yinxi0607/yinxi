@@ -1,0 +1,19 @@
+# mysqlUtil
+DBHOST = '192.168.3.248'  #10.162.3.60
+# DBHOST = '127.0.0.1'
+DBPORT = 3306
+DBUSER = 'root' #spider
+DBPWD = '123456' #Kw8RXvYWYmf4uQb6
+DBNAME = 'ZT' #spider
+DBCHAR = 'utf8'
+
+#MySQLdb
+MYHOST = '192.168.3.248'
+# MYHOST = '127.0.0.1'
+MYPORT = 3306
+MYUSER = 'root'
+MYPWD  = '123456'
+MYDBNAME = 'ZT'
+MYCHAR = 'utf8'
+# MYDBNAME_OUT = 'ZTJR'
+MYDBNAME_OUT = 'zhangtong'
